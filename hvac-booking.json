@@ -1,0 +1,7 @@
+{
+  "name": "HVAC booking",
+  "required_fields": ["name", "phone", "service", "preferred_time"],
+  "require_booking_confirmation": true,
+  "booking_confirmation_phrases": ["appointment is confirmed", "you're booked"],
+  "review_phrases": ["guaranteed repair", "ignore the safety procedure"]
+}
